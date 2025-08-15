@@ -51,4 +51,4 @@ It uses "ANSI escape codes" to make the console display visually appealing, and 
 2. Open the ".cpp" file in your C++ IDE (e.g., Code::Blocks, Dev-C++, Visual Studio) or terminal than Compile the code.
 
 ## Author 
-- Hafiza Ghulam Fatima
+Hafiza Ghulam Fatima
